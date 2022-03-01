@@ -88,3 +88,5 @@ You should install a code editor, nodeJs and git.
 - All the items which are added to the list can be  found at  the bottom of the application
 - We can add and delete the items from the backend at any time very easily.
 - We can find similar list items just by searching in the list.
+
+Link to visit Application: https://sad-mahavira-e52076.netlify.app
